@@ -5,3 +5,4 @@ const sumTwoNum = (a,b)=>{
 }
 
 console.log(sumTwoNum(2,3))
+
